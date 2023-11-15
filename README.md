@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=jpainam&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi! I am Jean-Paul Aina 👋🏻</h1>
-<h3 align="left">I am a ML scientist with 6+ years of experience. Hands-on experience in computer vision projects, including object detection, image segmentation, and image classification with proven track record of presenting and publishing research papers in top-tier computer vision and deep learning conferences. I am always happy to connect with new people, so please feel free to reach out for any reason!</h3>
+<h1 align="center">Hi! I am Jean-Paul Ainam 👋🏻</h1>
+<h3 align="left">I am a ML and research scientist with 10+ years of experience. I am always happy to connect with new people, so please feel free to reach out for any reason!</h3>
 
 ## Links 🔗
 
@@ -11,7 +11,7 @@
 
   - 📫 You can reach me at **jpainam@gmail.com**
 
-  - 📜 My updated resume is available [HERE](https://1drv.ms/b/s!Avwfb9nLRWEygZxfPemGsbCAAAfNqg?e=uQy8lr)
+  - 📜 My updated resume is available [Here](https://1drv.ms/w/s!Avwfb9nLRWEygao0fmddeIViFT3iZQ?e=KT1U3f)
 
 </h3>
 
