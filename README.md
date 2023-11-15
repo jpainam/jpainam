@@ -11,7 +11,7 @@
 
   - 📫 You can reach me at **jpainam@gmail.com**
 
-  - 📜 My updated resume is available [HERE]([https://aronteh.com/Aron_Teh_Resume.pdf](https://1drv.ms/b/s!Avwfb9nLRWEygZxfPemGsbCAAAfNqg?e=uQy8lr))
+  - 📜 My updated resume is available [HERE](https://1drv.ms/b/s!Avwfb9nLRWEygZxfPemGsbCAAAfNqg?e=uQy8lr)
 
 </h3>
 
